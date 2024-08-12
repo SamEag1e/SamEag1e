@@ -8,7 +8,7 @@ I’m Samad Taghi Nezhad, an aspiring software engineer with a passion for techn
 
 * 🌍  I'm based in Iran-Tabriz
 * 🖥️  See my portfolio at [My Portfolio(may be down)](http://sameagle.ir/portfolio)
-* ✉️  You can contact me at [samadtnd@gmail.com](mailto:samadtnd@gmail.com)
+* ✉️  You can contact me at [samadeagle@yahoo.com](mailto:samadeagle@yahoo.com)
 * 🚀  I'm currently working on [Looking for freelance projects and remote work opportunities](http://www.linkedin.com/in/samad-taghi-nezhad-8a8a50300/)
 * 🧠  I'm learning Django Rest Framework
 
