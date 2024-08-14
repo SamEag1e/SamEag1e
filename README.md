@@ -4,7 +4,7 @@ Hi 👋 My name is Samad TaghiNezhad
 Aspiring Software Engineer | Python & Django Specialist | Web Developer & Scraper | Data Science Enthusiast
 -----------------------------------------------------------------------------------------------------------
 
-I’m Samad Taghi Nezhad, an aspiring software engineer with a passion for technology and problem-solving. Specializing in Python and Django, I have experience in web development and web scraping. My goal is to create innovative and efficient solutions, with a growing interest in data science.
+An aspiring software engineer with a passion for technology and problem-solving. Specializing in Python and Django, I have experience in web development and web scraping. My goal is to create innovative and efficient solutions, with a growing interest in data science.
 
 * 🌍  I'm based in Iran-Tabriz
 * 🖥️  See my portfolio at [My Portfolio(may be down)](http://sameagle.ir/portfolio)
