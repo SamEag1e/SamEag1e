@@ -2,7 +2,7 @@
 
 | Project Name       | Tech Stack                  | Description                                   |
 |-----------------|------------------------|--------------------------------|
-| CustomTradeBot | Python, MetaTrader5, Plotly | CustomTradeBot is a trading bot designed for live trading and backtesting with MetaTrader5 integration. It executes trades based on a custom strategy using dynamic features like entry conditions, custom objects (e.g., FVG, pivot, trend), and flexible order handling. The bot’s core is powered by pure Python with advanced exception handling and real-time control via a status file. [Screenshots](#-customtradebot-screenshots) (*Private Repo*) |
+| CustomTradeBot | Python, MetaTrader5, Plotly | A trading bot designed for live trading and backtesting with MetaTrader5 integration. It executes trades based on a custom strategy using dynamic features like entry conditions, custom objects (e.g., FVG, pivot, trend), and flexible order handling. The bot’s core is powered by pure Python with advanced exception handling and real-time control via a status file. [Screenshots](#-customtradebot-screenshots) (*Private Repo*) |
 | DjangoOnlineShop | Django, MySQL, AJAX, MPTT (Recursive Category Model), Context Processors, Generic Relationships, OTP Authentication, HTML, CSS, Bootstrap, JavaScript | An e-commerce project built with Django MVT architecture, featuring phone number and OTP-based authentication, recursive MPTT category models, and a dynamic CRUD view generator for both user and admin panels. Incomplete features include alerts, blogs, shopping cart, orders, and discounts. [Screenshots](#-django-online-shop-screenshots) [GitHub Repo](https://github.com/SamEag1e/Django_Online_Shop) |
 | DRFOnlineShop | Django REST Framework (DRF), JWT Authentication, OTP Authentication, Generic Relationships  | A personal project built as a base backend for future e-commerce applications. The project uses Django REST Framework (DRF) and JWT authentication for secure, password-less OTP-based user login. While most of the models have been implemented, CRUD operations have been completed only for specific apps like user accounts and comments. Some features like orders, products, and payment systems are yet to be finished. [Screenshots](#drf-online-shop-screenshots) [GitHub Repo](https://github.com/SamEag1e/DRF_Online_Shop) |
 | DjangoRoofRealEstate | Django, MySQL, HTML, CSS, Bootstrap, JavaScript | A web application with the following sections:- Introduction and Description - Property Price Estimation: Based on property details such as city, region, etc. - Blog - Contact Us. The data used for price estimation is obtained by scraping various real estate ads and is updated daily. [Screenshots](#-django-roof-realestate-screenshots) [GitHub Repo](https://github.com/SamEag1e/dj-RoofRealEstate) |
@@ -17,6 +17,9 @@
 
 ---
 
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 
 # 📸 CustomTradeBot Screenshots
@@ -35,6 +38,9 @@
 ![CustomTradeBot](./assets/CustomTradeBot/CustomTradeBot12.png)
 
 <br><br>
+<br><br>
+<br><br>
+<br><br>
 
 # 📸 Django Online Shop Screenshots
 
@@ -49,8 +55,20 @@
 ![DjangoShop](./assets/DjangoOnlineShop/DjangoOnlineShop9.png)
 
 <br><br>
+<br><br>
+<br><br>
+<br><br>
 
+# 📸 DRF Online Shop Screenshots
 
+![DRFShop](./assets/DRFOnlineShop/DRFOnlineShop1.png)
+![DRFShop](./assets/DRFOnlineShop/DRFOnlineShop2.png)
+![DRFShop](./assets/DRFOnlineShop/DRFOnlineShop3.png)
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 # 📸 Django Roof RealEstate Screenshots
 
 ![DjangoRoofRealEstate](./assets/DjangoRoofRealEstate/DjangoRoofRealEstate1.png)
@@ -60,6 +78,9 @@
 ![DjangoRoofRealEstate](./assets/DjangoRoofRealEstate/DjangoRoofRealEstate5.png)
 ![DjangoRoofRealEstate](./assets/DjangoRoofRealEstate/DjangoRoofRealEstate6.png)
 
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 
 # 📸 Django Portfolio Screenshots
@@ -71,13 +92,8 @@
 
 
 <br><br>
-
-# 📸 DRF Online Shop Screenshots
-
-![DRFShop](./assets/DRFOnlineShop/DRFOnlineShop1.png)
-![DRFShop](./assets/DRFOnlineShop/DRFOnlineShop2.png)
-![DRFShop](./assets/DRFOnlineShop/DRFOnlineShop3.png)
-
+<br><br>
+<br><br>
 <br><br>
 
 # 📸 Scraping Divar Screenshots
@@ -90,6 +106,9 @@
 ![ScrapingDivar](./assets/ScrapingDivar/ScrapingDivar6.png)
 
 <br><br>
+<br><br>
+<br><br>
+<br><br>
 
 # 📸 TgBot AddMember Screenshots
 
@@ -98,7 +117,9 @@
 ![TgBotAddMember](./assets/TgBotAddMember/TgBotAddMember3.png)
 ![TgBotAddMember](./assets/TgBotAddMember/TgBotAddMember4.png)
 
-
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 
 # 📸 TgBot RoofRealEstate Screenshots
@@ -107,7 +128,9 @@
 ![TgBotRoofRealEstate](./assets/TgBotRoofRealEstate/TgBotRoofRealEstate2.png)
 ![TgBotRoofRealEstate](./assets/TgBotRoofRealEstate/TgBotRoofRealEstate3.png)
 
-
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 
 # 📸 Wallet Extractor Tracker Screenshots
@@ -115,7 +138,9 @@
 ![WalletExtractorTracker](./assets/WalletExtractorTracker/WalletExtractorTracker1.png)
 ![WalletExtractorTracker](./assets/WalletExtractorTracker/WalletExtractorTracker2.png)
 
-
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 
 # 📸 PropTrader Assistant Screenshots
@@ -125,7 +150,9 @@
 ![PropTraderAssistant](./assets/PropTraderAssistant/PropTraderAssistant3.png)
 ![PropTraderAssistant](./assets/PropTraderAssistant/PropTraderAssistant4.png)
 
-
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 
 # 📸 MiniProjects Python Screenshots
@@ -134,7 +161,9 @@
 ![MiniProjectsPython](./assets/MiniProjectsPython/MiniProjectsPython2.png)
 ![MiniProjectsPython](./assets/MiniProjectsPython/MiniProjectsPython3.png)
 
-
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 
 # 📸 MiniProjects FrontEnd Screenshots
@@ -145,4 +174,6 @@
 ![MiniProjectsFrontEnd](./assets/MiniProjectsFrontEnd/MiniProjectsFrontEnd4.png)
 
 <br><br>
-
+<br><br>
+<br><br>
+<br><br>
