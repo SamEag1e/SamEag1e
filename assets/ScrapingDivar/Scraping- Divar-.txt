@@ -1,0 +1,52 @@
+اسکرپ اطلاعات املاک از آگهی های دیوار
+
+این پروژه را به طور کامل با دو روش کاملا مستقل از هم انجام داده ام.
+
+روش اول با استفاده از فریمورک های Scrapy و Selenium WebDriver و parse کردن html
+روش بعدی با request به API دیوار و استخراج اطلاعات از فایل JSON
+روش دوم با سرعت بیشتر و خطای احتمالی کمتری انجام می شود.
+
+برای ذخیره اطلاعات از دیتابیس MySQL استفاده شده، ولی به علت داینامیک نوشته شدن عملیات CRUD، امکان تغییر دیتابیس به هر شکلی وجود دارد.(همچنین عدم استفاده از دیتابیس و ذخیره در یک فایل CSV یا اکسل نیز امکان پذیر است.)
+
+اطلاعات زیر در تمام دسته های آپارتمان، ویلایی و زمین و برای تمام 9 کلانشهر ایران استخراج می شود.
+- عنوان آگهی
+- متن آگهی
+- شماره تماس سازنده آگهی
+- دسته بندی ملک
+- شهر
+- منطقه ( حتی برای شهر های تبریز و کرمانشاه که خود دیوار به طور مستقیم آپشن انتخاب منطقه را فراهم نکرده، از داخل عنوان و متنی که نویسنده آگهی ارائه میدهد، اسم مناطق احتمالی استخراج می شود.)
+- قیمت
+- قیمت هر متر مربع
+- جزئیات دیگر در صورت وجود ( برای آپارتمان و ویلایی مثل سال ساخت و تعداد اتاق و ... )
+
+برنامه به نحوی نوشته شده است که در 99.99% مواقع، حتی در صورت برخوردن به ارور یا مشکل اینترنت و ... به کار خود ادامه می دهد تا آگهی های مدت زمان مورد نظر را به طور کامل استخراج کند ( این متغییر که آگهی های چند ساعت یا چند روز اخیر و یا چه تعداد آگهی استخراج شود، از کاربر دریافت می شود.)
+
+
+
+
+Automated Property Data Scraper for Divar Ads
+This project automates the extraction of property information from Divar ads using two distinct methods, both implemented from start to finish:
+
+- Scrapy and Selenium WebDriver: This method involves parsing HTML to extract the required data.
+- API Requests: This method involves sending requests to the Divar API and extracting information from JSON files. It is faster and less error-prone compared to the first method.
+Data Storage:
+- MySQL Database: CRUD operations are dynamic, allowing for easy database changes.
+- Alternative Storage: CSV or Excel files.
+Extracted Information:
+- Ad title
+- Ad text
+- Contact number
+- Property category
+- City
+- Region (even for cities like Tabriz and Kermanshah where Divar doesn’t directly provide this option)
+- Price
+- Price per square meter
+- Additional details (e.g., year built, number of rooms for apartments and villas)
+Program Features:
+- High Reliability: Continues operation in 99.99% of cases, even with errors or internet issues.
+- User Input: Allows users to specify the time frame or number of ads to extract.
+This project demonstrates a robust and adaptable approach to automating the extraction of property data, ensuring efficiency and accuracy.
+
+GitHub: https://github.com/SamEag1e/Scraping_Real_Estate_Divar_API
+ And: https://github.com/SamEag1e/Scraping_Real_Estate_Divar_Scrapy_Selenium
+Skills: Python (Programming Language) · MySQL · SQL · Web Scraping · Scrapy Framework · Selenium

@@ -1,0 +1,15 @@
+ربات تلگرام تخمین قیمت ملک بر اساس ورودی ها
+
+
+با دریافت اطلاعات مرتبط با ملک مورد نظر، مثل شهر، منطقه، سال ساخت و ...، یک قیمت تخمینی بر اساس دیتای موجود ( که خود این دیتا توسط اسکرپ آگهی های فروش مسکن همه روزه در حال بروزرسانی است) به کاربر ارائه می شود.
+در تمام مراحل دریافت اطلاعات، امکان بازگشت به مرحله های قبلی و اصلاح ورودی ها وجود دارد.
+
+
+
+
+Telegram Bot for Property Price Estimation Based on User Inputs
+
+This bot provides an estimated property price based on user-provided information such as city, region, year built, and more. The estimation is based on up-to-date data obtained by scraping real estate ads daily. Throughout the process, users can return to previous steps and modify their inputs as needed.
+
+GitHub: https://github.com/SamEag1e/tgbot-RoofRealEstatePrice
+Skills: Python (Programming Language) · Telegram (Software) · MySQL

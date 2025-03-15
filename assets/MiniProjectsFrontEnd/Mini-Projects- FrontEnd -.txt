@@ -1,0 +1,13 @@
+مینی پروژه های فرانت اند  HTML, CSS, BOOTSTRAP, JS
+
+
+با توجه به تمرکز اصلی من روی بک اند و جنگو، این مینی پروژه ها صرفا برای آشنایی و درک بهتر کلیت پروسه Web development انجام شده اند.
+همچنین برای پروژه های نسبتا ساده و متوسط توانایی انجام فرانت اند در کنار بک اند را نیز دارم.
+
+
+
+Front-End Mini Projects (HTML, CSS, Bootstrap, JS)
+Given my primary focus on back-end development and Django, these mini projects were undertaken to better understand the overall web development process. They demonstrate my ability to handle front-end tasks alongside back-end development for relatively simple to medium complexity projects.
+
+GitHub: https://github.com/SamEag1e/Frontend_Mini_Projects
+Skills: HTML5 · Bootstrap (Framework) · Cascading Style Sheets (CSS)

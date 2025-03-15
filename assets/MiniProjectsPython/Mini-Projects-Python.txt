@@ -1,0 +1,27 @@
+مینی پروژه های پایتون یکجا MVC, ORM, OOP
+
+پروژه های نسبتا کوچک پایتون از جمله:
+
+- 3 پروژه آنلاین شاپ، سامانه رزرو و سیستم مدیریت آموزشگاه با دیزاین پترن MVC روی ترمینال برای درک بهتر مفاهیم MVC و ORM و OOP
+- پروژه mouse and keyboard logger برای کار با multi threading
+- پروژه مقایسه زمان انجام درخواست با روش های متفاوت multi threading, multi processing و asyncio
+- چند regex ساده و متوسط
+- کار با CSV، XLSX, directories and files
+
+
+
+
+Python Mini Projects (MVC, ORM, OOP)
+These relatively small Python projects include:
+
+- Three terminal-based projects (online shop, reservation system, and educational management system) 
+ using the MVC design pattern to better understand MVC, ORM, and OOP concepts.
+- A mouse and keyboard logger project to work with multi-threading.
+- A project comparing request execution times using different methods: multi-threading, multi- 
+ processing, and asyncio.
+- Several simple and intermediate regex tasks.
+- Working with CSV, XLSX, directories, and files.
+
+GitHub: https://github.com/SamEag1e/Terminal_MVC_MiniProjects
+ And: https://github.com/SamEag1e/Python_MiniProjects
+Skills: Python (Programming Language) · MySQL · SQL · Model-View-Controller (MVC) · Object-Oriented Programming (OOP) · Object-Relational Mapping (ORM) · asyncio · regex

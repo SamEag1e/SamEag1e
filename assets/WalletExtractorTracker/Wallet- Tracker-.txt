@@ -1,0 +1,42 @@
+استخراج و رهگیری کیف پول های هوشمند رمزارز ها
+
+این پروژه با استفاده از API های وبسایت Etherscan سه مسئله اصلی را برای فعالان بازار رمزارزها حل میکند:
+1. اتوماتیک کردن پروسه استخراج کیف پول های هوشمند:
+فرض کنید رمزارز x در بازه زمانی از 2023/1/1 تا 2023/2/1 در کف قیمتی خود بوده است، و بعد از این مدت شروع به یک حرکت صعودی شدید کرده است. میخواهیم کیف پول هایی که در این بازه زمانی، رمزارز x وارد کیف پول آن ها شده است را پیدا کنیم. با وارد کردن اطلاعات ذکر شده، پس از درخواست های لازم و دریافت اطلاعات و استخراج کیف پول ها، تمامی کیف پول هایی که شرایط ذکر شده را دارند، در یک فایل متنی ذخیره خواهد شد.
+
+2. نامگذاری و نمره دهی به کیف پول های استخراج شده و فیلتر کردن آن ها:
+پس از اینکه روی بازه های زمانی و رمزارز های مختلف، یک سری کیف پول بدست آوردیم، حالا باید بررسی کنیم که کدام یک از کیف پول ها، در کجاها خرید و فروش داشته اند. اگر یک کیف پول در 5 مورد خرید در کف و فروش در سقف ثبت کرده باشد، به احتمال زیادی ارزش پیگیری دارد و در خرید و فروش های آینده ی این کیف پول میتوان حساب باز کرد و ریسک مشابهی انجام داد.
+تمام این پروسه توسط این پروژه اتوماتیک شده است و فقط کافیست اسم فایل ها را طبق docstring نوشته شده در ماژول و توابع، مرتب کنیم و به فولدر مناسب انتقال دهیم. به جز این کار دیگری لازم نیست.
+
+3. رهگیری کیف پول های فیلتر و انتخاب شده:
+در مرحله آخر فرض کنید ما 100 عدد ولت هوشمند پیدا کرده ایم. قاعدتا رهگیری تمام این کیف پول ها به صورت دستی اگر امکانپذیر هم باشد، برای یک مهندس نرم افزار قابل قبول نیست و یک پروسه تکراری است که قابلیت انجام توسط نرم افزار را دارد.
+تمام کار های لازم این مرحله نیز اتوماتیک شده است و شما کافیست یک مدت زمان و یک شماره تلفن یا ایمیل وارد کنید، تا مثلا هر 24 ساعت یکبار، تمام تراکنش های کیف پول ها بررسی شوند و در صورت خرید یا فروش توکن جدید، به شما اطلاع رسانی شود.
+
+در حال حاضر این پروژه فقط برای بلاک چین اتریوم نوشته شده است، ولی در آینده امکان افزودن شبکه های BSC، TON، ... وجود دارد.
+
+
+
+
+
+
+
+
+
+
+Cryptocurrency Smart Wallet Extraction and Tracking
+
+This project addresses three main issues for cryptocurrency market participants using the Etherscan website APIs:
+
+- Automating the Extraction of Smart Wallets:
+Suppose cryptocurrency x was at its lowest price from 2023/1/1 to 2023/2/1 and then started a significant upward trend. We want to find wallets that received cryptocurrency x during this period. By entering the specified information, after making the necessary requests and extracting the wallets, all wallets meeting the criteria will be saved in a text file.
+
+- Naming, Scoring, and Filtering Extracted Wallets:
+After obtaining a series of wallets for different time periods and cryptocurrencies, we need to analyze where these wallets have bought and sold. If a wallet has recorded five instances of buying at the bottom and selling at the top, it is likely worth tracking, and similar future trades can be considered. This entire process is automated, and you only need to organize the file names according to the docstrings in the modules and functions and move them to the appropriate folder. No other actions are required.
+
+- Tracking Filtered and Selected Wallets:
+In the final stage, suppose we have identified 100 smart wallets. Manually tracking all these wallets, even if possible, is not acceptable for a software engineer and is a repetitive process that can be automated. All necessary tasks in this stage are also automated, and you only need to enter a time interval and a phone number or email. For example, every 24 hours, all wallet transactions will be checked, and you will be notified if a new token is bought or sold.
+Currently, this project is written only for the Ethereum blockchain, but in the future, it can be extended to include networks like BSC, TON, and others.
+
+GitHub: https://github.com/SamEag1e/Wallet-Tracker
+Skills: Python (Programming Language) · Data Analysis · Cryptocurrency
+    
