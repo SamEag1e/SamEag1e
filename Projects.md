@@ -76,7 +76,6 @@
 ![DjangoRoofRealEstate](./assets/DjangoRoofRealEstate/DjangoRoofRealEstate3.png)
 ![DjangoRoofRealEstate](./assets/DjangoRoofRealEstate/DjangoRoofRealEstate4.png)
 ![DjangoRoofRealEstate](./assets/DjangoRoofRealEstate/DjangoRoofRealEstate5.png)
-![DjangoRoofRealEstate](./assets/DjangoRoofRealEstate/DjangoRoofRealEstate6.png)
 
 <br><br>
 <br><br>
