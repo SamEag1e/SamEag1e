@@ -8,7 +8,7 @@
 | DjangoRoofRealEstate | Django, MySQL, HTML, CSS, Bootstrap, JavaScript | A web application with the following sections:- Introduction and Description - Property Price Estimation: Based on property details such as city, region, etc. - Blog - Contact Us. The data used for price estimation is obtained by scraping various real estate ads and is updated daily. [Screenshots](#-django-roof-realestate-screenshots) [GitHub Repo](https://github.com/SamEag1e/dj-RoofRealEstate) |
 | DjangoPortfolio | Django, MySQL, HTML, CSS, Bootstrap, | A relatively simple web application with three main sections: -Introduction Section -Projects Section: Projects are dynamically added by the admin. -Contact Us Section. This project is designed for personal use with Django and front-end templates, serving as a portfolio alongside a biography and providing a simple way to get in touch. It has been deployed on a hosting service. [Screenshots](#-django-portfolio-screenshots) [GitHub Repo](https://github.com/SamEag1e/dj-portfolio) |
 | ScrapingDivar | Python, MySQL, SQL, Web Scraping, Scrapy Framework, Selenium  | This project automates property data extraction from Divar ads using Scrapy, Selenium WebDriver, and API requests, storing information like ad title, price, contact details, and property specs in MySQL or CSV/Excel, with dynamic CRUD operations, high reliability, and user-defined extraction parameters. [Screenshots](#-scraping-divar-screenshots) [API GitHub Repo](https://github.com/SamEag1e/Scraping_Real_Estate_Divar_API) [Scrapy-Selenium GitHub Repo](https://github.com/SamEag1e/Scraping_Real_Estate_Divar_Scrapy_Selenium) |
-| TgBotAddMember | Python, Telethon Library, Telegram API | A Telegram bot that utilizes the Telethon library to create a session and add members from one Telegram group to another. [Screenshots](#-tgbot-addmember-screenshots) [GitHub Repo](https://github.com/SamEag1e/tgbot-AddMember) |
+| TgBotAddmember | Python, Telethon Library, Telegram API | A Telegram bot that utilizes the Telethon library to create a session and add members from one Telegram group to another. [Screenshots](#-tgbot-addmember-screenshots) [GitHub Repo](https://github.com/SamEag1e/tgbot-AddMember) |
 | TgBotRoofRealEstate | Python, Telegram, MySQL, Telegram API | This bot provides an estimated property price based on user-provided information such as city, region, year built, and more. The estimation is based on up-to-date data obtained by scraping real estate ads daily. Throughout the process, users can return to previous steps and modify their inputs as needed. [Screenshots](#-tgbot-roofrealestate-screenshots) [GitHub Repo](https://github.com/SamEag1e/tgbot-RoofRealEstatePrice) |
 | WalletExtractorTracker | Python, Data Analysis, Cryptocurrency, Etherscan API | This project automates the extraction, naming, scoring, and filtering of smart wallets from the Etherscan API based on specific timeframes and cryptocurrencies, tracks wallet transactions for future trades, and sends notifications for new token activities, with future potential for expansion to other blockchains like BSC and TON. [Screenshots](#-wallet-extractor-tracker-screenshots) [GitHub Repo](https://github.com/SamEag1e/Wallet-Tracker) |
 | PropTraderAssistant | Python, HTML Parsing (BeautifulSoup), MetaTrader 5 Data Handling | A simple tool that parses the trade history HTML file from MetaTrader 5 and calculates the 80% rule and scalp rule for prop firm trading. [Screenshots](#-proptrader-assistant-screenshots) [GitHub Repo](https://github.com/SamEag1e/PropTraderAssistant) |
@@ -111,10 +111,10 @@
 
 # 📸 TgBot AddMember Screenshots
 
-![TgBotAddMember](./assets/TgBotAddMember/TgBotAddMember1.png)
-![TgBotAddMember](./assets/TgBotAddMember/TgBotAddMember2.png)
-![TgBotAddMember](./assets/TgBotAddMember/TgBotAddMember3.png)
-![TgBotAddMember](./assets/TgBotAddMember/TgBotAddMember4.png)
+![TgBotAddmember](./assets/TgBotAddmember/TgBotAddmember1.png)
+![TgBotAddmember](./assets/TgBotAddmember/TgBotAddmember2.png)
+![TgBotAddmember](./assets/TgBotAddmember/TgBotAddmember3.png)
+![TgBotAddmember](./assets/TgBotAddmember/TgBotAddmember4.png)
 
 <br><br>
 <br><br>
