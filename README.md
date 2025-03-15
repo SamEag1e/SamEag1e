@@ -12,6 +12,9 @@ An aspiring software engineer with a passion for technology and problem-solving.
 * 🚀  I'm currently [Looking for freelance projects and remote work opportunities](http://www.linkedin.com/in/samad-taghi-nezhad-8a8a50300/)
 * 🧠  I'm learning Django Rest Framework
 
+### My Projects
+Check out my [Projects.md](https://github.com/SamEag1e/SamEag1e/blob/main/Projects.md) to explore the list of projects I've worked on!
+
 ### Skills
 
 <p align="left">
