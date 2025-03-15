@@ -25,17 +25,7 @@
 
 Cryptocurrency Smart Wallet Extraction and Tracking
 
-This project addresses three main issues for cryptocurrency market participants using the Etherscan website APIs:
-
-- Automating the Extraction of Smart Wallets:
-Suppose cryptocurrency x was at its lowest price from 2023/1/1 to 2023/2/1 and then started a significant upward trend. We want to find wallets that received cryptocurrency x during this period. By entering the specified information, after making the necessary requests and extracting the wallets, all wallets meeting the criteria will be saved in a text file.
-
-- Naming, Scoring, and Filtering Extracted Wallets:
-After obtaining a series of wallets for different time periods and cryptocurrencies, we need to analyze where these wallets have bought and sold. If a wallet has recorded five instances of buying at the bottom and selling at the top, it is likely worth tracking, and similar future trades can be considered. This entire process is automated, and you only need to organize the file names according to the docstrings in the modules and functions and move them to the appropriate folder. No other actions are required.
-
-- Tracking Filtered and Selected Wallets:
-In the final stage, suppose we have identified 100 smart wallets. Manually tracking all these wallets, even if possible, is not acceptable for a software engineer and is a repetitive process that can be automated. All necessary tasks in this stage are also automated, and you only need to enter a time interval and a phone number or email. For example, every 24 hours, all wallet transactions will be checked, and you will be notified if a new token is bought or sold.
-Currently, this project is written only for the Ethereum blockchain, but in the future, it can be extended to include networks like BSC, TON, and others.
+This project automates the extraction, naming, scoring, and filtering of smart wallets from the Etherscan API based on specific timeframes and cryptocurrencies, tracks wallet transactions for future trades, and sends notifications for new token activities, with future potential for expansion to other blockchains like BSC and TON.
 
 GitHub: https://github.com/SamEag1e/Wallet-Tracker
 Skills: Python (Programming Language) · Data Analysis · Cryptocurrency

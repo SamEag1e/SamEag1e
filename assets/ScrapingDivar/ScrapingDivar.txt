@@ -25,27 +25,8 @@
 
 
 Automated Property Data Scraper for Divar Ads
-This project automates the extraction of property information from Divar ads using two distinct methods, both implemented from start to finish:
 
-- Scrapy and Selenium WebDriver: This method involves parsing HTML to extract the required data.
-- API Requests: This method involves sending requests to the Divar API and extracting information from JSON files. It is faster and less error-prone compared to the first method.
-Data Storage:
-- MySQL Database: CRUD operations are dynamic, allowing for easy database changes.
-- Alternative Storage: CSV or Excel files.
-Extracted Information:
-- Ad title
-- Ad text
-- Contact number
-- Property category
-- City
-- Region (even for cities like Tabriz and Kermanshah where Divar doesn’t directly provide this option)
-- Price
-- Price per square meter
-- Additional details (e.g., year built, number of rooms for apartments and villas)
-Program Features:
-- High Reliability: Continues operation in 99.99% of cases, even with errors or internet issues.
-- User Input: Allows users to specify the time frame or number of ads to extract.
-This project demonstrates a robust and adaptable approach to automating the extraction of property data, ensuring efficiency and accuracy.
+This project automates property data extraction from Divar ads using Scrapy, Selenium WebDriver, and API requests, storing information like ad title, price, contact details, and property specs in MySQL or CSV/Excel, with dynamic CRUD operations, high reliability, and user-defined extraction parameters.
 
 GitHub: https://github.com/SamEag1e/Scraping_Real_Estate_Divar_API
  And: https://github.com/SamEag1e/Scraping_Real_Estate_Divar_Scrapy_Selenium

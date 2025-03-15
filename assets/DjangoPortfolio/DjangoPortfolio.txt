@@ -10,12 +10,7 @@
 
 
 Portfolio Web Application with Django
-A relatively simple web application with three main sections:
-
-Introduction Section
-Projects Section: Projects are dynamically added by the admin.
-Contact Us Section
-This project is designed for personal use with Django and front-end templates, serving as a portfolio alongside a biography and providing a simple way to get in touch. It has been deployed on a hosting service.
+A relatively simple web application with three main sections: -Introduction Section -Projects Section: Projects are dynamically added by the admin. -Contact Us Section. This project is designed for personal use with Django and front-end templates, serving as a portfolio alongside a biography and providing a simple way to get in touch. It has been deployed on a hosting service.
 
 http://sameagle.ir/portfolio
 GitHub: https://github.com/SamEag1e/dj-portfolio

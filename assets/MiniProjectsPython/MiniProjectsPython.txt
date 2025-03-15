@@ -12,15 +12,7 @@
 
 
 Python Mini Projects (MVC, ORM, OOP)
-These relatively small Python projects include:
-
-- Three terminal-based projects (online shop, reservation system, and educational management system) 
- using the MVC design pattern to better understand MVC, ORM, and OOP concepts.
-- A mouse and keyboard logger project to work with multi-threading.
-- A project comparing request execution times using different methods: multi-threading, multi- 
- processing, and asyncio.
-- Several simple and intermediate regex tasks.
-- Working with CSV, XLSX, directories, and files.
+These small Python projects include terminal-based applications (online shop, reservation system, educational management system) using MVC design, a mouse/keyboard logger with multi-threading, a request execution time comparison with multi-threading, multi-processing, and asyncio, along with various regex tasks and file handling projects.
 
 GitHub: https://github.com/SamEag1e/Terminal_MVC_MiniProjects
  And: https://github.com/SamEag1e/Python_MiniProjects

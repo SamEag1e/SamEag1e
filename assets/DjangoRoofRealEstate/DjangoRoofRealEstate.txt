@@ -16,13 +16,7 @@
 Real Estate Consultant Web Application with Property Price Estimation
 
 
-A web application with the following sections:
-
-- Introduction and Description
-- Property Price Estimation: Based on property details such as city, region, etc.
-- Blog
-- Contact Us
-The data used for price estimation is obtained by scraping various real estate ads and is updated daily.
+A web application with the following sections:- Introduction and Description - Property Price Estimation: Based on property details such as city, region, etc. - Blog - Contact Us. The data used for price estimation is obtained by scraping various real estate ads and is updated daily.
 
 GitHub: https://github.com/SamEag1e/dj-RoofRealEstate
 Skills: Python (Programming Language) · Django · MySQL · Web Scraping · HTML5 · Cascading Style Sheets (CSS) · Bootstrap (Framework)
