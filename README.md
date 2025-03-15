@@ -56,7 +56,7 @@ An aspiring software engineer with a passion for technology and problem-solving.
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </picture>
 </a>
-<a href="https://t.me/wxy1997" target="_blank" rel="noreferrer">
+<a href="https://t.me/SamadTnd" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/ios-filled/50/0088cc/telegram-app.png" width="32" height="32" alt="Telegram" />
 </a>
 <a href="https://wa.me/989146446078" target="_blank" rel="noreferrer">
