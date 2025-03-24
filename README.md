@@ -1,21 +1,18 @@
-Hi 👋 My name is Samad TaghiNezhad
+Hi, I'm Samad.
 ==================================
 
-Aspiring Software Engineer | Python & Django Specialist | Web Developer & Scraper | Data Science Enthusiast
+Software Engineer | Python & Django Specialist | Backend Developer
 -----------------------------------------------------------------------------------------------------------
+I specialize in Python and Django with a strong focus on software engineering principles, clean code, and scalable solutions. I have built multiple projects, ranging from trading automation to web applications, continuously refining my skills in object-oriented programming, design patterns, and modular software design.
 
-An aspiring software engineer with a passion for technology and problem-solving. Specializing in Python and Django, I have experience in web development and web scraping. My goal is to create innovative and efficient solutions, with a growing interest in data science.
+* 🌍  I'm based in Iran-Tabriz.
+* 🖥️  Check out my projects: [Projects.md](https://github.com/SamEag1e/SamEag1e/blob/main/Projects.md) / [My Portfolio(may be down)](http://sameagle.ir/portfolio)
+* ✉️  You can contact me at [samadeagle@yahoo.com](mailto:samadeagle@yahoo.com).
+* 🚀  I'm [Open to freelance and remote opportunities.](http://www.linkedin.com/in/samad-taghi-nezhad-8a8a50300/).
 
-* 🌍  I'm based in Iran-Tabriz
-* 🖥️  See my portfolio at [My Portfolio(may be down)](http://sameagle.ir/portfolio)
-* ✉️  You can contact me at [samadeagle@yahoo.com](mailto:samadeagle@yahoo.com)
-* 🚀  I'm currently [Looking for freelance projects and remote work opportunities](http://www.linkedin.com/in/samad-taghi-nezhad-8a8a50300/)
-* 🧠  I'm learning Django Rest Framework
 
-### My Projects
-Check out my [Projects.md](https://github.com/SamEag1e/SamEag1e/blob/main/Projects.md) to explore the list of projects I've worked on!
 
-### Skills
+## 💻 Tech Stack & Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -29,13 +26,28 @@ Check out my [Projects.md](https://github.com/SamEag1e/SamEag1e/blob/main/Projec
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/48/000000/api-settings.png" width="36" height="36" alt="DRF" /></a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png" width="36" height="36" alt="Selenium" /></a>
-<a href="https://core.telegram.org/bots/api" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/0088cc/telegram-app.png" width="36" height="36" alt="Telegram API" /></a>
-<a href="https://developers.facebook.com/docs/whatsapp" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="36" height="36" alt="WhatsApp API" /></a>
-<a href="https://developers.facebook.com/docs/instagram-api" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="36" height="36" alt="Instagram API" /></a>
 </p>
 
+* Primary Language: Python
 
-### Socials
+* Backend Development: Django, DRF
+
+* Frontend: HTML, CSS, Bootstrap, JavaScript
+
+* Databases:  MySQL, PostgreSQL, SQLite
+
+* Development Tools: Git, Linux
+
+* Data & Automation: Pandas, Plotly, Plotly Dash, Scrapy, Selenium, Telethon, MetaTrader5 Library
+
+
+## 🎯 Current Learning & Focus:
+
+* Expanding my backend skills with JavaScript, Node.js, TypeScript, and NestJS.
+
+* Enhancing real-time data visualization with Dash & Plotly (focused on integrating with Custom Trading Bot).
+
+## Socials
 
 <p align="left">
 <a href="https://discord.com/users/eaglism1997" target="_blank" rel="noreferrer">
@@ -67,17 +79,12 @@ Check out my [Projects.md](https://github.com/SamEag1e/SamEag1e/blob/main/Projec
 </a>
 </p>
 
-
-### Badges
-
-<b>My GitHub Stats</b>
-
+<div width="100%" align="center">
 <a href="http://www.github.com/SamEag1e"><img src="https://github-readme-stats.vercel.app/api?username=SamEag1e&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SamEag1e's GitHub stats" /></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamEag1e&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/SamEag1e)
+</div>
 
-
-<b>Top Repositories</b>
 
 <div width="100%" align="center">
   <a href="https://github.com/SamEag1e/Django_Online_Shop" align="left">
@@ -95,4 +102,3 @@ Check out my [Projects.md](https://github.com/SamEag1e/SamEag1e/blob/main/Projec
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamEag1e&repo=Scraping_Real_Estate_Divar_API&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
-<br /><br /><br /><br /><br /><br /><br />

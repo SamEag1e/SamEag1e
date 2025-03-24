@@ -71,7 +71,7 @@
 <br><br>
 # 📸 Django Roof RealEstate Screenshots
 
-![DjangoRoofRealEstate](./assets/DjangoRoofRealEstate/DjangoRoofRealEstate1.png)
+![DjangoRoofRealEstate](./assets/DjangoRoofRealEstate/DjangoRoofRealEstate1.jpg)
 ![DjangoRoofRealEstate](./assets/DjangoRoofRealEstate/DjangoRoofRealEstate2.png)
 ![DjangoRoofRealEstate](./assets/DjangoRoofRealEstate/DjangoRoofRealEstate3.png)
 ![DjangoRoofRealEstate](./assets/DjangoRoofRealEstate/DjangoRoofRealEstate4.png)
