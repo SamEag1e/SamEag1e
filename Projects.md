@@ -14,6 +14,7 @@
 | PropTraderAssistant | Python, HTML Parsing (BeautifulSoup), MetaTrader 5 Data Handling | A simple tool that parses the trade history HTML file from MetaTrader 5 and calculates the 80% rule and scalp rule for prop firm trading. [Screenshots](#-proptrader-assistant-screenshots) [GitHub Repo](https://github.com/SamEag1e/PropTraderAssistant) |
 | MiniProjectsPython | Python, MySQL, SQL, MVC, OOP, ORM, asyncio, regex | These small Python projects include terminal-based applications (online shop, reservation system, educational management system) using MVC design, a mouse/keyboard logger with multi-threading, a request execution time comparison with multi-threading, multi-processing, and asyncio, along with various regex tasks and file handling projects. [Screenshots](#-miniprojects-python-screenshots) [Terminal-MVC GitHub Repo](https://github.com/SamEag1e/Terminal_MVC_MiniProjects) [Others GitHub Repo](https://github.com/SamEag1e/Python_MiniProjects) |
 | MiniProjectsFrontEnd | HTML, Bootstrap, CSS |Given my primary focus on back-end development and Django, these mini projects were undertaken to better understand the overall web development process. They demonstrate my ability to handle front-end tasks alongside back-end development for relatively simple to medium complexity projects. [Screenshots](#-miniprojects-frontend-screenshots) [GitHub Repo](https://github.com/SamEag1e/Frontend_Mini_Projects) |
+| ECUWordpress | Wordpress, Elementor |[Website](https://ecubacktostock.com/) |
 
 ---
 

@@ -1,7 +1,7 @@
 Hi, I'm Samad.
 ==================================
 
-Software Engineer | Python & Django Specialist | Backend Developer
+Software Developer | Python & Django Specialist | Backend Developer
 -----------------------------------------------------------------------------------------------------------
 I specialize in Python and Django with a strong focus on software engineering principles, clean code, and scalable solutions. I have built multiple projects, ranging from trading automation to web applications, continuously refining my skills in object-oriented programming, design patterns, and modular software design.
 
