@@ -79,14 +79,14 @@ I specialize in Python and Django with a strong focus on software engineering pr
 </a>
 </p>
 
-<div width="100%" align="center">
-<a href="http://www.github.com/SamEag1e"><img src="https://github-readme-stats.vercel.app/api?username=SamEag1e&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SamEag1e's GitHub stats" /></a>
+<!-- <div width="100%" align="center">
+  <a href="http://www.github.com/SamEag1e"><img src="https://github-readme-stats.vercel.app/api?username=SamEag1e&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SamEag1e's GitHub stats" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamEag1e&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/SamEag1e)
-</div>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamEag1e&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/SamEag1e)
+</div> -->
 
 
-<div width="100%" align="center">
+<!-- <div width="100%" align="center">
   <a href="https://github.com/SamEag1e/Django_Online_Shop" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamEag1e&repo=Django_Online_Shop&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
@@ -101,4 +101,4 @@ I specialize in Python and Django with a strong focus on software engineering pr
   <a href="https://github.com/SamEag1e/Scraping_Real_Estate_Divar_API" align="right">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamEag1e&repo=Scraping_Real_Estate_Divar_API&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-</div>
+</div> -->
