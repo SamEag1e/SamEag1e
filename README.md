@@ -6,78 +6,58 @@ Software Developer | Python & Django Specialist | Backend Developer
 I specialize in Python and Django with a strong focus on software engineering principles, clean code, and scalable solutions. I have built multiple projects, ranging from trading automation to web applications, continuously refining my skills in object-oriented programming, design patterns, and modular software design.
 
 * 🌍  I'm based in Iran-Tabriz.
-* 🖥️  Check out my projects: [Projects.md](https://github.com/SamEag1e/SamEag1e/blob/main/Projects.md) / [My Portfolio(may be down)](http://sameagle.ir/portfolio)
-* ✉️  You can contact me at [samadeagle@yahoo.com](mailto:samadeagle@yahoo.com).
-* 🚀  I'm [Open to freelance and remote opportunities.](http://www.linkedin.com/in/samad-taghi-nezhad-8a8a50300/).
+
+* 🖥️  Check out my projects: [Projects.md](https://github.com/SamEag1e/SamEag1e/blob/main/Projects.md)
+
+* <p>
+    ✉️ You can contact me at:
+    <a href="https://www.linkedin.com/in/samad-taghi-nezhad-8a8a50300" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" alt="LinkedIn" style="display:inline; vertical-align:middle; margin: 0 6px;" />
+    </a>
+    <a href="https://t.me/SamadTnd" target="_blank" rel="noreferrer">
+      <img src="https://img.icons8.com/ios-filled/20/0088cc/telegram-app.png" width="20" height="20" alt="Telegram" style="display:inline; vertical-align:middle; margin: 0 6px;" />
+    </a>
+    <a href="https://wa.me/989146446078" target="_blank" rel="noreferrer">
+      <img src="https://img.icons8.com/color/20/whatsapp--v1.png" width="20" height="20" alt="WhatsApp" style="display:inline; vertical-align:middle; margin: 0 6px;" />
+    </a>
+    <a href="mailto:samadeagle@yahoo.com" target="_blank" rel="noreferrer">
+      <img src="https://img.icons8.com/fluency/20/new-post.png" width="20" height="20" alt="Email" style="display:inline; vertical-align:middle; margin: 0 6px;" />
+    </a>
+  </p>
+
+* 🚀  I'm open to freelance and remote opportunities.
 
 
 
 ## 💻 Tech Stack & Skills
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/48/000000/api-settings.png" width="36" height="36" alt="DRF" /></a>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png" width="36" height="36" alt="Selenium" /></a>
-</p>
-
 * Primary Language: Python
 
-* Backend Development: Django, DRF
+* Backend Development: Django, DRF, NestJS
 
 * Frontend: HTML, CSS, Bootstrap, JavaScript
 
-* Databases:  MySQL, PostgreSQL, SQLite
+* Databases:  MySQL, PostgreSQL
 
-* Development Tools: Git, Linux
+* Development Tools: Git, Docker, Linux
 
-* Data & Automation: Pandas, Plotly, Plotly Dash, Scrapy, Selenium, Telethon, MetaTrader5 Library
+* Data & Automation: Pandas, Scrapy, Selenium, Plotly, Plotly Dash, Telethon, MetaTrader5 Library
 
 
-## 🎯 Current Learning & Focus:
+## 🎯 Current Projects & Focus
 
-* Expanding my backend skills with JavaScript, Node.js, TypeScript, and NestJS.
+#### 🛒 Django Online Shop
+  * A full-featured MVT e-commerce app using a clean, ready-to-use frontend template.
+  * Includes custom users, product management, cart, orders, blog, tickets, and SEO optimization.
 
-* Enhancing real-time data visualization with Dash & Plotly (focused on integrating with Custom Trading Bot).
+#### ⚙️ NestJS Backend System
+* Working with a pro team on a modular, Dockerized NestJS backend.
+* Focused on building APIs, crawling large datasets via queues, and translating my Django/DRF experience into TypeScript/NestJS architecture..
 
-## Socials
+#### 🤖 TradeBot Framework
+* A personal passion project to build a scalable framework for trading bots across financial markets.
+* It’s ambitious, still evolving, but real, growing, and not just an idea.
 
-<p align="left">
-<a href="https://discord.com/users/eaglism1997" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-</picture>
-</a>
-<a href="https://www.github.com/SamEag1e" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</picture>
-</a>
-<a href="https://www.linkedin.com/in/samad-taghi-nezhad-8a8a50300" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</picture>
-</a>
-<a href="https://t.me/SamadTnd" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/ios-filled/50/0088cc/telegram-app.png" width="32" height="32" alt="Telegram" />
-</a>
-<a href="https://wa.me/989146446078" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="32" height="32" alt="WhatsApp" />
-</a>
-</p>
 
 <!-- <div width="100%" align="center">
   <a href="http://www.github.com/SamEag1e"><img src="https://github-readme-stats.vercel.app/api?username=SamEag1e&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SamEag1e's GitHub stats" /></a>
