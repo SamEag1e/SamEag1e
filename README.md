@@ -1,14 +1,15 @@
 Hi, I'm Samad.
 ==================================
 
-Software Developer | Python & Django Specialist | Backend Developer
+Backend Developer | Python & Django Specialist
 -----------------------------------------------------------------------------------------------------------
-I specialize in Python and Django with a strong focus on software engineering principles, clean code, and scalable solutions. I have built multiple projects, ranging from trading automation to web applications, continuously refining my skills in object-oriented programming, design patterns, and modular software design.
+I focus on building practical tools — from e-commerce platforms to trading bots — with clean, modular code grounded in software engineering principles and an eye for maintainability.
 
-* 🖥️  Check out my projects: [portfolio](https://github.com/SamEag1e/portfolio)
+
+* 🧠  Explore my work: [portfolio](https://github.com/SamEag1e/portfolio)
 
 * <p>
-    ✉️ You can contact me at:
+    💬  Reach out:
     <a href="mailto:samadeagle@yahoo.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/20/new-post.png" width="20" height="20" alt="Email" style="display:inline; text-decoration: none; vertical-align:middle; margin: 0 6px;" />
     </a>
@@ -21,27 +22,16 @@ I specialize in Python and Django with a strong focus on software engineering pr
     <a href="https://www.linkedin.com/in/samad-taghi-nezhad-8a8a50300" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" alt="LinkedIn" style="display:inline; vertical-align:middle; margin: 0 6px; text-decoration: none;" />
     </a>
-</p>
+  </p>
+* 🚀  Open to freelance and remote opportunities
 
-* 🚀  I'm open to freelance and remote opportunities.
+---
 
+## 💻 Tech Stack
 
-
-## 💻 Tech Stack & Skills
-
-* Primary Language: Python
-
-* Backend Development: Django, DRF, NestJS
-
-* Frontend: HTML, CSS, Bootstrap, JavaScript
-
-* Databases:  MySQL, PostgreSQL
-
-* Development Tools: Git, Docker, Linux
-
-* Data & Automation: Pandas, Scrapy, Selenium, Plotly, Plotly Dash, Telethon, MetaTrader5 Library
-
-
-<!-- ## 🎯 Current Projects & Focus
-
-#### 🛒 Beauty Plus -->
+**Languages:** Python  
+**Frameworks:** Django, Django REST Framework, NestJS  
+**Frontend:** HTML, CSS, Bootstrap, JavaScript  
+**Databases:** PostgreSQL, MySQL  
+**Tools:** Git, Docker, Linux  
+**Other:** Pandas, Scrapy, Selenium, Plotly, Telethon, MetaTrader5
