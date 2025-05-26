@@ -6,7 +6,7 @@ Backend Developer | Python & Django Specialist
 I focus on building practical tools — from e-commerce platforms to trading bots — with clean, modular code grounded in software engineering principles and an eye for maintainability.
 
 
-* 🧠  Explore my work: [portfolio](https://github.com/SamEag1e/portfolio)
+* 🧠  Explore my work: [portfolio](https://github.com/SamEag1e/portfolio/blob/main/README.md)
 
 * <p>
     💬  Reach out:
