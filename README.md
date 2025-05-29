@@ -19,7 +19,7 @@ I focus on building practical tools — from e-commerce platforms to trading bot
     <a href="https://t.me/SamadTnd" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios-filled/20/0088cc/telegram-app.png" width="20" height="20" alt="Telegram" style="display:inline; text-decoration: none; vertical-align:middle; margin: 0 6px;" />
     </a>
-    <a href="https://www.linkedin.com/in/samad-taghi-nezhad-8a8a50300" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/samad-taghinejad/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" alt="LinkedIn" style="display:inline; vertical-align:middle; margin: 0 6px; text-decoration: none;" />
     </a>
   </p>
