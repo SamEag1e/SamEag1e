@@ -6,10 +6,10 @@ Backend Developer | Python & Django Specialist
 I focus on building practical tools — from e-commerce platforms to trading bots — with clean, modular code grounded in software engineering principles and an eye for maintainability.
 
 
-* 🧠  Explore my work: [portfolio](https://github.com/SamEag1e/portfolio/blob/main/README.md)
+* Explore my work: [portfolio](https://github.com/SamEag1e/portfolio/blob/main/README.md)
 
 * <p>
-    💬  Reach out:
+    Reach out:
     <a href="mailto:samadeagle@yahoo.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/20/new-post.png" width="20" height="20" alt="Email" style="display:inline; text-decoration: none; vertical-align:middle; margin: 0 6px;" />
     </a>
@@ -23,11 +23,11 @@ I focus on building practical tools — from e-commerce platforms to trading bot
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" alt="LinkedIn" style="display:inline; vertical-align:middle; margin: 0 6px; text-decoration: none;" />
     </a>
   </p>
-* 🚀  Open to freelance and remote opportunities
+*  Open to freelance and remote opportunities
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages:** Python  
 **Frameworks:** Django, Django REST Framework, NestJS  
