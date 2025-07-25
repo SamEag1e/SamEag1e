@@ -1,6 +1,7 @@
 # Hi, I'm Samad.
 
 **Backend Developer | Python | Node.js**  
+-----------------------------------------------------------------------------------------------------------
 I build practical, production-ready tools. From e-commerce platforms to trading bots. With clean, modular code grounded in real-world engineering practices.
 
 Currently, I'm deepening my computer science fundamentals to design more efficient, reliable, and scalable systems focused on long-term maintainability and performance.
