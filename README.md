@@ -1,13 +1,11 @@
-Hi, I'm Samad.
-==================================
+# Hi, I'm Samad.
 
-Backend Developer | Python – Node.js
------------------------------------------------------------------------------------------------------------
-I build practical tools. From e-commerce platforms to trading bots, with clean, modular code, grounded in real-world engineering practices.
+**Backend Developer | Python | Node.js**  
+I build practical, production-ready tools. From e-commerce platforms to trading bots. With clean, modular code grounded in real-world engineering practices.
 
-I'm currently expanding my expertise in computer science fundamentals to design more efficient, reliable, and scalable systems, with a focus on long-term maintainability and performance.
+Currently, I'm deepening my computer science fundamentals to design more efficient, reliable, and scalable systems focused on long-term maintainability and performance.
 
-
+---
 
 * Explore my work: [portfolio](https://github.com/SamEag1e/portfolio/blob/main/README.md)
 
@@ -26,7 +24,8 @@ I'm currently expanding my expertise in computer science fundamentals to design 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" alt="LinkedIn" style="display:inline; vertical-align:middle; margin: 0 6px; text-decoration: none;" />
     </a>
   </p>
-*  Open to freelance and remote opportunities
+
+* Open to freelance and remote opportunities.
 
 ---
 
