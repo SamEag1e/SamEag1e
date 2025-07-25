@@ -1,9 +1,12 @@
 Hi, I'm Samad.
 ==================================
 
-Backend Developer | Python & Django Specialist
+Backend Developer | Python – Node.js
 -----------------------------------------------------------------------------------------------------------
-I focus on building practical tools — from e-commerce platforms to trading bots — with clean, modular code grounded in software engineering principles and an eye for maintainability.
+I build practical tools. From e-commerce platforms to trading bots, with clean, modular code, grounded in real-world engineering practices.
+
+I'm currently expanding my expertise in computer science fundamentals to design more efficient, reliable, and scalable systems, with a focus on long-term maintainability and performance.
+
 
 
 * Explore my work: [portfolio](https://github.com/SamEag1e/portfolio/blob/main/README.md)
@@ -29,9 +32,9 @@ I focus on building practical tools — from e-commerce platforms to trading bot
 
 ## Tech Stack
 
-**Languages:** Python  
-**Frameworks:** Django, Django REST Framework, NestJS  
-**Frontend:** HTML, CSS, Bootstrap, JavaScript  
-**Databases:** PostgreSQL, MySQL  
-**Tools:** Git, Docker, Linux  
-**Other:** Pandas, Scrapy, Selenium, Plotly, Telethon, MetaTrader5
+**Languages:** Python, JavaScript, TypeScript  
+**Backends & APIs:** Django, DRF, NestJS, Express.js, FastAPI, Flask  
+**Frontend & UI:** HTML, CSS, Bootstrap, HTMX, Alpine.js  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLite  
+**Tools & DevOps:** Git, Docker, Linux, Swagger / OpenAPI  
+**Other Experience:** Scrapy, Selenium, Plotly, Telethon, MetaTrader5 (MT5)
