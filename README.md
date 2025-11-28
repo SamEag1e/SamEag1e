@@ -38,21 +38,12 @@ Currently strengthening my core CS and system design fundamentals.
 
 ## Tech Stack
 
-**Languages:**  TypeScript, Python, JavaScript
-
-**Backend & API Frameworks:**  NestJS, Express.js, Django, Django REST Framework
-
-**Frontend & UI:**  HTML, CSS, Bootstrap, Familiar with modern frameworks: React, Vue, Angular
-
-**Databases & Caching:**  PostgreSQL, MySQL, MongoDB, Redis
-
-**Tools & DevOps:**  Git, Docker, Linux, Nginx, Certbot
-
-**API & Documentation:**  Swagger / OpenAPI
-
-**Testing:**  Jest, Supertest, Pytest
-
-**Cloud / CDN:**  Cloudflare
-
+**Languages:**  TypeScript, Python, JavaScript  
+**Backend & API Frameworks:**  NestJS, Express.js, Django, Django REST Framework  
+**Frontend & UI:**  HTML, CSS, Bootstrap, Familiar with modern frameworks: React, Vue, Angular  
+**Databases & Caching:**  PostgreSQL, MySQL, MongoDB, Redis  
+**Tools & DevOps:**  Git, Docker, Linux, Nginx, Certbot  
+**API & Documentation:**  Swagger / OpenAPI  
+**Testing:**  Jest, Supertest, Pytest  
+**Cloud / CDN:**  Cloudflare  
 **Additional Experience:**  FastAPI, Flask, Scrapy, Selenium, Plotly, Telethon, MetaTrader5 (MT5)
-
