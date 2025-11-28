@@ -1,11 +1,17 @@
 # Hi, I'm Samad.
 
-## **Backend Developer | Python | Node.js**
+## **Backend Developer | TypeScript (Node.js) | Python**
 
-I build practical, production-ready tools - from e-commerce platforms to trading bots.  
-My focus is on clean, modular code grounded in real-world engineering practices.  
-Aspiring to sharpen my CS fundamentals… whenever life allows.
+I build practical, production-ready backend systems - from e-commerce platforms to flight booking APIs and trading bots.  
+My priority is clean architecture, modular design, and solutions shaped by real-world engineering constraints.  
+Currently strengthening my core CS and system design fundamentals.
 
+### Experience Highlights
+1. Designing and implementing APIs for flight agencies and multi-step booking flows  
+2. Integrating external services and third-party providers  
+3. Building scalable e-commerce platforms  
+4. Developing automated trading systems and market data pipelines  
+5. Web scraping and data extraction tools
 ---
 
 - Explore my work: [portfolio](https://github.com/SamEag1e/portfolio/blob/main/README.md)
@@ -32,12 +38,21 @@ Aspiring to sharpen my CS fundamentals… whenever life allows.
 
 ## Tech Stack
 
-**Languages:** Python, JavaScript, TypeScript  
-**Backends & APIs:** Django, DRF, NestJS, Express.js, FastAPI, Flask  
-**Frontend & UI:** HTML, CSS, Bootstrap, HTMX, Alpine.js  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis, MariaDB, SQLite  
-**Tools & DevOps:** Git, Docker, Linux, Nginx  
-**API & Documentation:** Swagger / OpenAPI  
-**Testing:** Pytest, Jest, Supertest  
-**Cloud/CDN:** Cloudflare  
-**Other Experience:** Scrapy, Selenium, Plotly, Telethon, MetaTrader5 (MT5)
+**Languages:**  TypeScript, Python, JavaScript
+
+**Backend & API Frameworks:**  NestJS, Express.js, Django, Django REST Framework
+
+**Frontend & UI:**  HTML, CSS, Bootstrap, Familiar with modern frameworks: React, Vue, Angular
+
+**Databases & Caching:**  PostgreSQL, MySQL, MongoDB, Redis
+
+**Tools & DevOps:**  Git, Docker, Linux, Nginx, Certbot
+
+**API & Documentation:**  Swagger / OpenAPI
+
+**Testing:**  Jest, Supertest, Pytest
+
+**Cloud / CDN:**  Cloudflare
+
+**Additional Experience:**  FastAPI, Flask, Scrapy, Selenium, Plotly, Telethon, MetaTrader5 (MT5)
+
