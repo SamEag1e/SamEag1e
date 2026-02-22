@@ -2,16 +2,18 @@
 
 ## **Backend Developer | TypeScript (Node.js) | Python**
 
-I build practical, production-ready backend systems - from e-commerce platforms to flight booking APIs and trading bots.  
-My priority is clean architecture, modular design, and solutions shaped by real-world engineering constraints.  
-Currently strengthening my core CS and system design fundamentals.
+Backend engineer delivering production systems across e-commerce, marketplaces, booking platforms, and trading infrastructure.  
+Prioritizes clarity of thought, architectural judgment, and pragmatic execution over unnecessary complexity.
 
 ### Experience Highlights
-1. Designing and implementing APIs for flight agencies and multi-step booking flows  
-2. Integrating external services and third-party providers  
-3. Building scalable e-commerce platforms  
-4. Developing automated trading systems and market data pipelines  
-5. Web scraping and data extraction tools
+
+1. Designed and implemented REST and GraphQL APIs for e-commerce, marketplaces, and flight booking systems (multi-step flows, high-traffic production environments)
+2. Integrated third-party providers (SOAP/XML, REST) with fault-tolerant pipelines, caching layers, and performance optimization
+3. Built scalable e-commerce platforms (Django & Node.js) covering cart, checkout, multi-currency support, and payment gateways
+4. Developed automated trading systems, market data pipelines, and backtesting tools (MetaTrader5, Python)
+5. Migrated and refactored legacy backends (TypeScript), introduced API documentation (Swagger/OpenAPI), and improved test coverage
+6. Implemented web scraping, data extraction, and crawler systems (Scrapy, Selenium)
+
 ---
 
 - Explore my work: [portfolio](https://github.com/SamEag1e/portfolio/blob/main/README.md)
@@ -38,12 +40,11 @@ Currently strengthening my core CS and system design fundamentals.
 
 ## Tech Stack
 
-**Languages:**  TypeScript, Python, JavaScript  
-**Backend & API Frameworks:**  NestJS, Express.js, Django, Django REST Framework  
-**Frontend & UI:**  HTML, CSS, Bootstrap, Familiar with modern frameworks: React, Vue, Angular  
-**Databases & Caching:**  PostgreSQL, MySQL, MongoDB, Redis  
-**Tools & DevOps:**  Git, Docker, Linux, Nginx, Certbot  
-**API & Documentation:**  Swagger / OpenAPI  
-**Testing:**  Jest, Supertest, Pytest  
-**Cloud / CDN:**  Cloudflare  
-**Additional Experience:**  FastAPI, Flask, Scrapy, Selenium, Plotly, Telethon, MetaTrader5 (MT5)
+**Languages:** TypeScript, Python, JavaScript  
+**Backend & APIs:** NestJS, Express.js, Django, Django REST Framework, FastAPI, Flask · REST & GraphQL · Swagger/OpenAPI · Zod  
+**Data & Search:** PostgreSQL, MySQL, MongoDB, Redis · Elasticsearch  
+**Message Queues & Jobs:** BullMQ  
+**Frontend (familiar):** HTML, CSS, Bootstrap · React, Vue, Angular  
+**DevOps & Infrastructure:** Git, Docker, Linux, Nginx, Certbot · CI/CD (GitHub Actions) · Cloudflare  
+**Testing:** Jest, Supertest, Pytest  
+**Additional:** Scrapy, Selenium, Plotly, Telethon, MetaTrader5 (MT5) · SOAP/XML integrations
